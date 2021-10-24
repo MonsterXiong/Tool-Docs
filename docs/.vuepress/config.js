@@ -1,7 +1,7 @@
 module.exports = {
   title:"Tools",
   description:"追求极致的冲浪体验~~~",
-  base:'Tool-Docs',
+  base:'/Tool-Docs/',
   themeConfig: {
     logo: "/images/logo.png",
     navbar: [
