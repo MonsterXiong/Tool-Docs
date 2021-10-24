@@ -12,7 +12,7 @@ git config user.name "MonsterXiong"
 git config user.email "942849672@qq.com"
 git add -A
 git commit -m "deploy"
-git push --force "https://${TOKEN}@github.com/MonsterXiong/Tool-Docs.git" "master:gh-pages"
+git push --force "https://${GITHUB_TOKEN}@github.com/MonsterXiong/Tool-Docs.git" "master:gh-pages"
 
 # Cleanup
 cd ../..
