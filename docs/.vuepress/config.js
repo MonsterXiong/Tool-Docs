@@ -2,6 +2,7 @@ module.exports = {
   title:"Tools",
   description:"追求极致的冲浪体验~~~",
   base:'/Tool-Docs/',
+  head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
   themeConfig: {
     logo: "/images/logo.png",
     navbar: [
