@@ -52,7 +52,7 @@ API 文档、调试、Mock、测试一体化协作平台。Apifox = Postman + Sw
 - 对于测试：拿来做接口自动化测试 可视化配置断言功能杠杠的
 - 对于团队：一体化协同工具 打通前端、后端及测试研发闭环
 
-### Postman [<Badge type="tip" text="传送门" vertical="middle" />](https://www.postman.com/)
+### Postman [<Badge type="tip" text="传送门" vertical="middle" />](https://www.postman.com/) [<Badge type="tip" text="汉化" vertical="middle" />](https://github.com/hlmd/Postman-cn)
 
 ::: tip 介绍
 Postman是用于构建和使用API的一个API平台。Postman简化了API生命周期的每一步，简化了协作，所以您可以更快地创建更好的API。
@@ -62,39 +62,6 @@ Postman是用于构建和使用API的一个API平台。Postman简化了API生命
 
 ::: tip 介绍
 ApiPost=API接口调试工具+接口文档管理工具+Mock工具协作之上,提升研发团队整体效率
-:::
-
-## 🕋 图片压缩
-
-### TinyPNG [<Badge type="tip" text="传送门" vertical="middle" />](https://tinypng.com/) [<Badge type="tip" text="传送门2" vertical="middle" />](https://tinify.cn/)
-
-::: tip 介绍
-是一款图片压缩工具，官方给出的数据显示，PNG 文件最高能减小70%的体积，具体和原图有关系。
-:::
-
-
-### Recompressor [<Badge type="tip" text="传送门" vertical="middle" />](https://recompressor.com/)
-
-::: tip 介绍
-Recompressor 在文件尺寸和质量之间选择完美平衡，并且可获取完整在线预览，永久免费。来自于明尼阿波利斯地区，开发、拥有和运营网站、基于网站的互动式工具、桌面软件和网络 API 组合。
-:::
-
-### Squoosh [<Badge type="tip" text="传送门" vertical="middle" />](https://squoosh.net/)
-
-::: tip 介绍
-Squoosh是一款超级轻量级的在线图片压制工具，它不仅可以无损压缩图片，实时比较图片，更能处理SVG格式的图片！
-:::
-
-### Picdiet [<Badge type="tip" text="传送门" vertical="middle" />](https://www.picdiet.com/zh-cn)
-
-::: tip 介绍
-Picdiet是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏给第三方。
-:::
-
-### 智图 [<Badge type="tip" text="传送门" vertical="middle" />](https://zhitu.isux.us/)
-
-::: tip 介绍
-智图是腾讯ISUX前端团队开发的一个专门用于图片压缩和图片格式转换的平台，其功能包括针对png,jpeg,gif等各类格式图片的压缩，以及为上传图片自动选择最优的图片格式。同时，智图平台还会为用户转换一份webp格式的图片。
 :::
 
 ## ✏️ 写作篇
@@ -119,15 +86,39 @@ shields.io 主要是用来可以生成 在Markdown 文档中的徽章，我们�
 
 ## ⌨ 命令行工具篇 
 
-### n <Badge type="tip" text="node 版本切换工具" vertical="middle" />
+### nvm [<Badge type="tip" text="管理Node版本" vertical="middle" />](https://github.com/coreybutler/nvm-windows/releases/tag/1.1.8)
 
 ::: tip 介绍
-用来进行 node 版本的切换，方便轻量 
+用来进行 node 版本的切换。
 :::
-
 ### nrm <Badge type="tip" text="npm镜像管理工具" vertical="middle" />
 
 ::: tip 介绍
 nrm是npm的镜像源管理工具,有时候因为访问国外资源原因导致速度太慢,使用nrm可以快速地在npm源间切换,也可以管理你内部的npm来源
 :::
+
+**基本使用：**
+
+```shell
+# 安装
+npm install -g nrm
+
+# 列出可选择的源:[注：前面带 * 号的表示正在使用的源]
+nrm ls
+
+# 切换使用的源
+nrm use <registry>
+
+# 添加一个源[reigstry` 为源名，`url` 为源的路径， `home` 为源的主页。`home` 可以不设置。]
+nrm add <registry> <url> [home]
+# 示例
+nrm add company http://npm.company.com/  
+
+# 删除源
+nrm del company
+
+# 测试源速度
+# * npm ---- 833ms
+nrm test npm 
+```
 

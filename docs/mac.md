@@ -39,6 +39,69 @@ Zsh是一个Linux下强大的shell工具,是bash替代品中表现最佳的一�
 - 支持快速与自动跳转
 
 
+### Homebrew
 
+::: tip 介绍
+Homebrew是一个包管理器，用于安装Apple没有预装但你需要的UNIX工具。（比如著名的wget）。拥有安装、卸载、更新、查看、搜索等很多实用的功能。简单的一条指令，就可以实现包管理，而不用你关心各种依赖和文件路径的情况，十分方便快捷。
+:::
+
+**基本使用：**
+
+```shell
+# 安装，终端中执行
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# 安装任意包：
+brew install <packageName>
+# 示例：安装node
+brew install node
+
+# 卸载任意包
+brew uninstall git
+
+# 查询可用包
+brew search <packageName>
+
+# 查看已安装包列表
+brew list
+```
+
+
+### n <Badge type="tip" text="管理Node版本" vertical="middle" />
+
+::: warning 提示
+windows不适用
+:::
+
+::: tip 介绍
+用来进行 node 版本的切换，方便轻量 
+:::
+
+**基本使用：**
+
+```shell
+# 安装
+npm install -g n
+
+# 列出目前已经安装的Node.js 版本
+n ls
+
+# 列出远程所有的Node.js版本(可以通过--all列举所有的)
+n ls-remote
+
+# 安装指定版本
+# 安装最新正式发布版本
+sudo n latest
+# 安装最新的长期支持正式发布版本
+sudo n lts
+# 安装指定版本
+sudo n 12.22.1
+
+# 切换版本,然后选中特定版本，回车即可
+n
+
+# 卸载版本
+sudo n rm 12.22.1
+```
 
 

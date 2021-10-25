@@ -1,5 +1,42 @@
 # 📘 在线工具篇
+## 🕋 图片压缩
 
+### TinyPNG [<Badge type="tip" text="传送门" vertical="middle" />](https://tinypng.com/) [<Badge type="tip" text="传送门2" vertical="middle" />](https://tinify.cn/)
+
+::: tip 介绍
+是一款图片压缩工具，官方给出的数据显示，PNG 文件最高能减小70%的体积，具体和原图有关系。
+:::
+
+
+### Recompressor [<Badge type="tip" text="传送门" vertical="middle" />](https://recompressor.com/)
+
+::: tip 介绍
+Recompressor 在文件尺寸和质量之间选择完美平衡，并且可获取完整在线预览，永久免费。来自于明尼阿波利斯地区，开发、拥有和运营网站、基于网站的互动式工具、桌面软件和网络 API 组合。
+:::
+
+### Squoosh [<Badge type="tip" text="传送门" vertical="middle" />](https://squoosh.net/)
+
+::: tip 介绍
+Squoosh是一款超级轻量级的在线图片压制工具，它不仅可以无损压缩图片，实时比较图片，更能处理SVG格式的图片！
+:::
+
+### Picdiet [<Badge type="tip" text="传送门" vertical="middle" />](https://www.picdiet.com/zh-cn)
+
+::: tip 介绍
+Picdiet是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏给第三方。
+:::
+
+### 智图 [<Badge type="tip" text="传送门" vertical="middle" />](https://zhitu.isux.us/)
+
+::: tip 介绍
+智图是腾讯ISUX前端团队开发的一个专门用于图片压缩和图片格式转换的平台，其功能包括针对png,jpeg,gif等各类格式图片的压缩，以及为上传图片自动选择最优的图片格式。同时，智图平台还会为用户转换一份webp格式的图片。
+:::
+### Online Image Tool [<Badge type="tip" text="传送门" vertical="middle" />](https://www.onlineimagetool.com/zh/)
+
+::: tip 介绍
+一款在线图片压缩网站
+:::
+## 技术类
 ### Codelf [<Badge type="tip" text="传送门" vertical="middle" />](https://unbug.github.io/codelf/)
 
 ::: tip 介绍
@@ -62,3 +99,105 @@ Carbon 用来创建美化版的代码片段，可筛选多种主题切换，然�
 ::: tip 介绍
 Bit 是一个使用Vue、react或Angular进行组件开发的开源平台，通过设计建立了行业领先的最佳实践。Bit可以在同一工作空间内编写多个独立组件。
 :::
+
+
+## 阅后即焚
+
+::: tip 介绍
+阅后即焚 是可以定期或者阅读之后立马删除信息的网站。
+:::
+
+### 阅后即焚 [<Badge type="tip" text="传送门" vertical="middle" />](https://yhjf.cc/)
+### PrivateBin [<Badge type="tip" text="传送门" vertical="middle" />](https://bin.appinn.com/)
+
+
+## 在线简历
+
+::: tip 介绍
+在线使用markdown书写精美的简历。
+:::
+
+### 冷熊简历 [<Badge type="tip" text="传送门" vertical="middle" />](https://cv.ftqq.com/#)
+### 木及简历 [<Badge type="tip" text="传送门" vertical="middle" />](https://www.mujicv.com)
+
+
+## 谷歌插件
+
+::: tip 介绍
+一些优秀的谷歌插件下载
+:::
+
+### 极简插件 [<Badge type="tip" text="传送门" vertical="middle" />](https://chrome.zzzmh.cn/)
+### 谷歌插件商店 [<Badge type="tip" text="传送门" vertical="middle" />](https://www.cxyhub.com/)
+
+
+## 文字文章类
+
+::: tip 介绍
+一些有趣的文字类网站
+:::
+
+### 鸡毛信 [<Badge type="tip" text="传送门" vertical="middle" />](http://cmd.im/)
+### 胡编生成器 [<Badge type="tip" text="传送门" vertical="middle" />](https://disksing.com/sao-gen-gen/2)
+### 狗屁不通文章生成器 [<Badge type="tip" text="传送门" vertical="middle" />](https://suulnnka.github.io/BullshitGenerator/index.html)
+### 情话大全 [<Badge type="tip" text="传送门" vertical="middle" />](https://www.nihaowua.com/q/)
+### 如是说 [<Badge type="tip" text="传送门" vertical="middle" />](https://saying.mingdawoo.com/)
+
+## 在线观看短视频
+
+### 抖音 [<Badge type="tip" text="传送门" vertical="middle" />](https://www.douyin.com/)
+### Tiktok [<Badge type="tip" text="传送门" vertical="middle" />](https://urlebird.com/)
+
+## 练习打字
+
+::: tip 介绍
+在线练习打字速度，打字规范~~~
+:::
+
+### Typing [<Badge type="tip" text="传送门" vertical="middle" />](https://www.typing.com/)
+### TypingClub [<Badge type="tip" text="传送门" vertical="middle" />](https://www.typingclub.com/)
+### Typing Practice [<Badge type="tip" text="传送门" vertical="middle" />](https://www.keybr.com/)
+
+## 在线游戏
+::: tip 介绍
+非常有趣的在线类小游戏~~~
+:::
+### 信任的进化 [<Badge type="tip" text="传送门" vertical="middle" />](https://dccxi.com/trust/)
+
+
+## 其它
+### 随时云U盘 [<Badge type="tip" text="传送门" vertical="middle" />](http://qingwendang.com/)
+
+::: tip 介绍
+免登录上传下载文件
+:::
+
+### imgCook [<Badge type="tip" text="传送门" vertical="middle" />](https://www.imgcook.com/)
+### 注册会计师练习 [<Badge type="tip" text="传送门" vertical="middle" />](http://cpademo.cicpa.org.cn/)
+### 工具123 [<Badge type="tip" text="传送门" vertical="middle" />](http://www.gjw123.com/)
+
+::: tip 介绍
+工具123，全网第一家全在线、免下载工具网站
+:::
+### ggtalk [<Badge type="tip" text="传送门" vertical="middle" />](https://talk.swift.gg/)
+
+::: tip 介绍
+程序员闲聊节目
+:::
+
+### 万能命令 [<Badge type="tip" text="传送门" vertical="middle" />](https://wannengrun.com/zh/)
+### 顽狗文件在线加密 [<Badge type="tip" text="传送门" vertical="middle" />](https://yose.fun/)
+### 在线文件批量重命名工具 [<Badge type="tip" text="传送门" vertical="middle" />](https://webrename.cn/)
+### 热铁盒工具箱 [<Badge type="tip" text="传送门" vertical="middle" />](https://tool.retiehe.com/)
+### 多个地点ping服务器 [<Badge type="tip" text="传送门" vertical="middle" />](http://ping.chinaz.com/)
+### YouTube下载1080教程 [<Badge type="tip" text="传送门" vertical="middle" />](https://github.com/Alvin9999/new-pac/wiki/YouTube%E4%B8%8B%E8%BD%BD1080%E6%95%99%E7%A8%8B)
+### 中国宣传海报 [<Badge type="tip" text="传送门" vertical="middle" />](https://chineseposters.net/)
+### 永久免费电话短信轰炸 [<Badge type="tip" text="传送门" vertical="middle" />](https://abccq.cn/)
+### 最全中文诗歌古典文集数据库 [<Badge type="tip" text="传送门" vertical="middle" />](https://github.com/chinese-poetry/chinese-poetry)
+### 微词云 [<Badge type="tip" text="传送门" vertical="middle" />](https://www.weiciyun.com/)
+
+::: tip 介绍
+简单强大的文字云艺术生成器
+:::
+
+### 隐私政策生成器 [<Badge type="tip" text="传送门" vertical="middle" />]()

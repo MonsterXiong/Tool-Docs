@@ -22,6 +22,7 @@ module.exports = {
         text: "💻 Mac",
         link: "/mac.md",
       },
+      { text: '👷 Github', link: 'https://github.com/MonsterXiong/Tool-Docs' },
     ],
   },
 };
