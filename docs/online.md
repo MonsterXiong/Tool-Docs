@@ -200,4 +200,10 @@ Bit 是一个使用Vue、react或Angular进行组件开发的开源平台，通�
 简单强大的文字云艺术生成器
 :::
 
-### 隐私政策生成器 [<Badge type="tip" text="传送门" vertical="middle" />]()
+### 隐私政策生成器 [<Badge type="tip" text="传送门" vertical="middle" />](https://privacy.1ts.fun/?utm_source=xinquji)
+
+### WIFI二维码 [<Badge type="tip" text="传送门" vertical="middle" />](https://github.com/bndw/wifi-card)
+
+::: tip
+打印二维码以连接到 WiFi
+:::

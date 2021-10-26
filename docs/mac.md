@@ -104,4 +104,9 @@ n
 sudo n rm 12.22.1
 ```
 
+### nuoshell [<Badge type="tip" text="传送门" vertical="middle" />](https://www.nuoshell.com/)
+
+::: tip
+集多功能于一身的 SSH 客户端工具，Mac 系统SSH客户端软件可选择的余地少之又少，BUG少、稳定且功能丰富的软件价格又非常高昂，这一款是免费的。
+:::
 
