@@ -100,7 +100,14 @@ Carbon 用来创建美化版的代码片段，可筛选多种主题切换，然�
 Bit 是一个使用Vue、react或Angular进行组件开发的开源平台，通过设计建立了行业领先的最佳实践。Bit可以在同一工作空间内编写多个独立组件。
 :::
 
+### Shapedivider [<Badge type="tip" text="传送门" vertical="middle" />](https://github.com/MonsterXiong/Tool-Docs.git)
 
+::: tip
+Shapedivider 是一款自定义形状分隔线生成工具，适用于电脑网页设计及手机网页，这是免费的 Web 应用程序，使设计人员和开发人员可以根据他们的项目要求，使用自定义代码快速导出精美的预制 SVG 形状分隔器。可以帮助设计人员和开发人员加快实现此类工作的速度。
+:::
+
+
+> 漂亮的SVG形状生成工具
 ## 阅后即焚
 
 ::: tip
